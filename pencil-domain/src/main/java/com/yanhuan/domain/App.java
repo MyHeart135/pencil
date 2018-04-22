@@ -1,4 +1,4 @@
-package com.yanhuan;
+package com.yanhuan.domain;
 
 /**
  * Hello world!

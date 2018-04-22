@@ -1,4 +1,4 @@
-package java.com.yanhuan;
+package com.yanhuan.domain;
 
 import org.junit.Test;
 

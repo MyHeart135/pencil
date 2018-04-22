@@ -1,4 +1,5 @@
-package java.com.yanhuan;
+package com.yanhuan.common;
+
 
 import org.junit.Test;
 
