@@ -18,7 +18,6 @@
         <module>pencil-web</module>
     </modules>
 
-
     <build>
         <finalName>pencil</finalName>
         <sourceDirectory>src/main/java</sourceDirectory>
